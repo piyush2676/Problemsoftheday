@@ -13,6 +13,6 @@ class Solution {
             }
             n /= 10;
         }
-        return x *= sum;
+        return x * sum;
     }
 }
