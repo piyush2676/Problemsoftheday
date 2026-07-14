@@ -43,6 +43,6 @@ class Solution {
             a = b;
             b = t;
         }
-        return a--;
+        return a;
     }
 }
